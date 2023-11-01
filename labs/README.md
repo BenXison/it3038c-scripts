@@ -9,3 +9,13 @@ Run:
 Change the the image you want to open what image needs changed too
 place python script in same directory as photo, or if unablle change photo name to full path to photo
 then run script!
+
+Output should show the image:
+- Resized
+- Rotated 45 degrees
+- text added over it
+- blurred slightly
+- cropped in certain places
+- then saved and displayed as Output.jpg
+
+Happy running!!
