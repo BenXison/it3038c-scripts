@@ -6,6 +6,6 @@ Install:
 - Once installed pull from the following or copy code into your own Python (.py) file
 Run:
 
-Change the image name to whatever
+Change the the image you want to open what image needs changed too
 place python script in same directory as photo, or if unablle change photo name to full path to photo
 then run script!
