@@ -6,9 +6,9 @@ Install:
 - Once installed pull from the following or copy code into your own Python (.py) file
 Run:
 
-Change the the image you want to open what image needs changed too
-place python script in same directory as photo, or if unablle change photo name to full path to photo
-then run script!
+Change "Image.open" to the name of whichever image needs altered.
+Place python script in same directory as photo, or if unablle change photo name to full path to photo
+Then run script!
 
 Output should show the image:
 - Resized
