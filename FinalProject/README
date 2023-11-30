@@ -1,0 +1,36 @@
+Pillow Image Processing Script
+This Python script uses the Pillow library to perform various image processing operations, including resizing, rotation, text addition, filter application, contrast adjustment, and more.
+
+Prerequisites
+Before running the script, make sure you have the following prerequisites installed:
+
+Python 3.x
+Pillow library (pip install Pillow)
+Usage
+Clone the repository or download the script (image_processing_script.py) to your local machine.
+
+Ensure you have an input image (input.jpg) in the same directory as the script.
+
+Modify the script parameters or input image path if needed.
+
+Run the script using the following command:
+
+bash
+Copy code
+python image_processing_script.py
+The script will display the altered image and save it as output_complex_updated.jpg in the same directory.
+
+Features
+The script incorporates the following features:
+
+Resizing the image to a larger size.
+Rotating the image.
+Adding semi-transparent text with a gradient color.
+Applying multiple filters (Blur and Sharpen).
+Adjusting image contrast.
+Adding a rectangle shape to the image.
+Enhancing color saturation.
+Feel free to customize the script parameters and explore additional features based on your requirements.
+
+Author
+Benton Hellmann
